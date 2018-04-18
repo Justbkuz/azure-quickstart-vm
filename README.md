@@ -37,4 +37,4 @@ For the installation, a couple of parameters are needed:
 
 # Screenshot
 
-![Installation](./images/screenshot.png)
+![Installation](./images/template.png)
