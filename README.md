@@ -1,4 +1,4 @@
-# Deployment of a Ubuntu VM with Dynatrace OneAgent Extension
+# Deployment of a Ubuntu VM with Dynatrace OneAgent 
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdynatrace-innovationlab%2Fazure-quickstart-vm%2Fmaster%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
@@ -9,7 +9,7 @@
 
 <br><br>
 
-![Dynatrace Logo](./images/Dynatrace_Logo_RGB_CPH_512x92px.png)
+![Dynatrace Logo](./assets/Dynatrace_Logo_RGB_CPH_512x92px.png)
 
 This template allows you to deploy a Ubuntu VM with the Dynatrace OneAgent VM extension installed and fully configured.
 The concrete size for the VM can be chosen during the deployment process.
@@ -20,7 +20,7 @@ During the installation procedure, a Dynatrace tenant ID and a token have to be 
 # Installation
 
 Click the "Deploy to Azure" button on top to begin deployment of the VM+OneAgent.
-For the installation, a couple of parameters are needed:
+For the installation, a couple of parameters are needed by the template:
 
 - Azure subscription
 - Resource group
@@ -37,4 +37,4 @@ For the installation, a couple of parameters are needed:
 
 # Screenshot
 
-![Installation](./images/template.png)
+![Installation](./assets/template.png)
